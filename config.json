@@ -1,16 +1,16 @@
 {   
     "bot1": {
-        "source": "https://github.com/<GitHub Username>/<repo1>.git",
+        "source": "https://github.com/TmrBotz/Dmo1.git",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "7985605655:AAH5fB-9Fl82u8rgafvaoprRJtaIQwoaH9I"
         },
-        "run": ""
+        "run": "bot.py"
     },
     "bot2": {
-        "source": "https://github.com/<GitHub Username>/<repo2>.git",
+        "source": "https://github.com/TmrBotz/Dmo2.git",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "7473136514:AAEdvNho5MOnrwcxldp5SP35bOTuUwzNZSU"
         },
-        "run": ""
+        "run": "bot.py"
     }
 }
