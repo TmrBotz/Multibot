@@ -12,12 +12,5 @@
             "TOKEN": ""
         },
         "run": ""
-    },
-    "bot3": {
-        "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": ""
     }
 }
