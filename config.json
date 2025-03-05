@@ -2,7 +2,7 @@
     "bot1": {
         "source": "https://github.com/TmrBotz/Dmo1.git",
         "env": {
-            "TOKEN": "7985605655:AAH5fB-9Fl82u8rgafvaoprRJtaIQwoaH9I"
+            "TOKEN": "7985605655:AAFICgs-2Zlthh1bRE3RVIearrfptCfIPac"
         },
         "run": "bot.py"
     },
