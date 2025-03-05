@@ -2,14 +2,14 @@
     "bot1": {
         "source": "https://github.com/TmrBotz/Dom3.git",
         "env": {
-            "TOKEN": "7524267790:AAE-IMIqlkZ0xMXD_m0BzFrTtDndr6fVu8A"
+            "BOT_TOKEN": "7524267790:AAE-IMIqlkZ0xMXD_m0BzFrTtDndr6fVu8A"
         },
         "run": "bot.py"
     },
     "bot2": {
         "source": "https://github.com/TmrBotz/Dmo2.git",
         "env": {
-            "TOKEN": "7473136514:AAEdvNho5MOnrwcxldp5SP35bOTuUwzNZSU"
+            "BOT_TOKEN": "7473136514:AAEdvNho5MOnrwcxldp5SP35bOTuUwzNZSU"
         },
         "run": "bot.py"
     }
