@@ -2,7 +2,7 @@
     "bot1": {
         "source": "https://github.com/TmrBotz/Dom3.git",
         "env": {
-            "TOKEN": "7985605655:AAHVychfAZ7FVJlAfFlX0mEbJroA43K3uRI"
+            "TOKEN": "7524267790:AAE-IMIqlkZ0xMXD_m0BzFrTtDndr6fVu8A"
         },
         "run": "bot.py"
     },
