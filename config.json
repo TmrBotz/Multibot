@@ -1,8 +1,8 @@
 {   
     "bot1": {
-        "source": "https://github.com/TmrBotz/Dmo1.git",
+        "source": "https://github.com/TmrBotz/Dom3.git",
         "env": {
-            "TOKEN": "7985605655:AAFICgs-2Zlthh1bRE3RVIearrfptCfIPac"
+            "TOKEN": "7985605655:AAHVychfAZ7FVJlAfFlX0mEbJroA43K3uRI"
         },
         "run": "bot.py"
     },
